@@ -1,0 +1,29 @@
+.white-theme {
+  background-color: #fff;
+  color: #000;
+}
+
+.white-theme-partTwo {
+  background-color: #e1e1e1;
+  color: #000;
+}
+
+.white-theme-partThree {
+  background-color: #d2d2d2;
+  color: #000;
+}
+
+.white-theme-partThree {
+  background-color: #d2d2d2;
+  color: #000;
+}
+
+.white-theme-partFour {
+  background-color: #8e8e8e;
+  color: #fff;
+}
+
+.dark-theme {
+  background-color: #4d4d4d;
+  color: white;
+}
